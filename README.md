@@ -34,3 +34,5 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 - MariaDB
 - Linux
 - C++
+- PHP
+- Bash-scripting
