@@ -21,18 +21,16 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 ## I'm currently working on:
 
 - a Messenger, based on the LORA-Network
-- a GPS-Tracker based on the LORA-Network
 
-## I'm currently lerarning: 
+## I'm currently learning: 
 
-- The usage of Docker
-- Continuous integration with Jenkins
-- Ansible (for my Servermanagement)
+- Saltstack
+- Rust
 
 ## My Skills are:
 - Python
 - MariaDB
 - Linux
-- experience with C++
 - PHP
 - Bash-scripting
+- Kubernetes
