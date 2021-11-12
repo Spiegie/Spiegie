@@ -34,3 +34,6 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 - PHP
 - Bash-scripting
 - Kubernetes
+
+## Work:
+- Relaxdays GmbH as Site-Reliability-Engineer
