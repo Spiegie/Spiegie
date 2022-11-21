@@ -20,7 +20,7 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 
 ## I'm currently working on:
 
-- [a Messenger, based on the LORA-Network](https://github.com/SpiegieMon/Spiegiemon_piedition)
+- some opensource projects
 
 ## I'm currently learning: 
 
@@ -29,11 +29,12 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 
 ## My Skills are:
 - Python
-- MariaDB
 - Linux
-- PHP
 - Bash-scripting
 - Kubernetes
+- CI/CD with Gitlab
+- Saltstack
+- Rust
 
 ## Work:
-- Relaxdays GmbH as Site-Reliability-Engineer
+- Relaxdays GmbH as Site-Reliability-Engineer/DevOps
