@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 
 My name is Michael Spiegelhalter. I studied Microsystem Technologie at the OTH Regensburg (Germany).
 
-I love Technologie of all kinds. For example I have build an 8-bit Processor, to learn more about Processors in general. I like Transimssiontechnologies like LORA-WAN. I'm interested in the organisation of a developmentprocess (DevOps). I love Open Source, because it gives me many options, to learn different approaches to solve Problems.
+I love Technologie of all kinds. For example I have build an 8-bit Processor, to learn more about Processors in general. I like Transimssiontechnologies like LORA-WAN. I'm interested in the organisation of a developmentprocess (DevOps). I love Open Source.
 
 ## I'm currently working on:
 
 - some opensource projects
+- automate my Home the DIY way
 
 ## I'm currently learning: 
 
-- Saltstack
 - Rust
 
 ## My Skills are:
@@ -37,4 +37,4 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 - Rust
 
 ## Work:
-- Relaxdays GmbH as Site-Reliability-Engineer/DevOps
+- x-tention: Development Infrastructure Engineer
