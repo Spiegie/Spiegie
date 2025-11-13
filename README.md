@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Michael Spiegelhalter. I studied Microsystem Technologie at the OTH Regensburg (Germany).
+My name is Michael Michel. I studied Microsystem Technologie at the OTH Regensburg (Germany).
 
-I love Technologie of all kinds. For example I have build an 8-bit Processor, to learn more about Processors in general. I like Transimssiontechnologies like LORA-WAN. I'm interested in the organisation of a developmentprocess (DevOps). I love Open Source.
+I’m passionate about technology in all its forms. I’ve built an 8-bit processor to deepen my understanding of computer architecture, and I’m particularly interested in communication technologies like LoRaWAN and modern development practices such as DevOps. I also strongly believe in the power of open source.
 
 ## I'm currently working on:
 
@@ -35,6 +35,7 @@ I love Technologie of all kinds. For example I have build an 8-bit Processor, to
 - CI/CD with Gitlab
 - Saltstack
 - Rust
+- Terraform
 
 ## Work:
 - x-tention: Development Infrastructure Engineer
