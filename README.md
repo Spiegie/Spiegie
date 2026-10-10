@@ -25,7 +25,7 @@ I’m passionate about technology in all its forms. I’ve built an 8-bit proces
 
 ## I'm currently learning: 
 
-- Rust
+- NixOS
 
 ## My Skills are:
 - Python
